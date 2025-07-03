@@ -16,6 +16,9 @@
 ![image](https://github.com/user-attachments/assets/2a7df83a-788c-4d39-9017-618113a7b522)
 ![image](https://github.com/user-attachments/assets/d2360662-a621-4077-b81a-c0a6a3a1b484)
 ![image](https://github.com/user-attachments/assets/35440efc-da39-45f2-bcd4-c29843eecce5)
+
+
+### 위치에 맞지 않는 장소에서 실행 시
 ![image](https://github.com/user-attachments/assets/0ac9b54f-bfbd-4aa0-aec9-8729d44e8a5d)
 ![image](https://github.com/user-attachments/assets/74f18de1-095f-41f1-8e31-d6fc7e1ca54a)
 ![image](https://github.com/user-attachments/assets/fdcbe5f4-a362-40cf-a602-e550153f3c15)
