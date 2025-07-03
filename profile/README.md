@@ -32,7 +32,8 @@
 ![image](https://github.com/user-attachments/assets/fdcbe5f4-a362-40cf-a602-e550153f3c15)
 ![image](https://github.com/user-attachments/assets/bc884f0c-ca39-4fb0-aec2-c135414bd5bd)
 ![image](https://github.com/user-attachments/assets/ba8af80a-9510-42fe-92a5-e2cf7353475b)
-## 🛠 ️System Architecture
+
+## 🛠 System Architecture
 ![image](https://github.com/user-attachments/assets/0d04a334-ae26-4369-9a13-fa9807fede8d)
 ## 실제 배포 주소
 ![image](https://github.com/user-attachments/assets/006e8960-2353-4b8d-93f7-9c5c0180b537)
